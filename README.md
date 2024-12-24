@@ -8,7 +8,7 @@ This paper presents a novel fusion method for enhancing the contrast and edge de
 ### Sofware Dependencies
 MATLAB R2023b (or later)
 Required MATLAB toolboxes:
-Image Processing Toolbox
+Image Processing Toolbox. 
 The required MATLAB packages can be installed via the matlab.addons.install function if needed.
 
 ### Hardware Requirements
