@@ -30,7 +30,6 @@ You need to set the path of the data set you want to use in this file.
 [MGTV]: This method decomposes the image by using multi-scale Gaussian total variation to achieve the purpose of improving the contrast and details of the fused image.
 You can find the Gaussian total variation code in the [GTV.m](./GTV.m) file.
 Below is the schematic diagram of the algorithm.
-![image](https://github.com/user-attachments/assets/7b8e1270-d26e-4906-9cae-bd4d676144a3)
 
 In this file, I represents the input image, λ represents the balance parameter, σ1 and σ2 represent two Gaussian kernels, N represents the number of iterations, and flog is used to control whether to apply logarithmic gradient.
 [AES]: This method extracts structural similarity and information entropy weight map from the image and then performs adaptive weighting as our fusion strategy.
