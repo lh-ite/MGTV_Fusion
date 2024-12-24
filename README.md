@@ -32,9 +32,14 @@ You can find the Gaussian total variation code in the [GTV.m](./GTV.m) file.
 In this file, I represents the input image, λ represents the balance parameter, σ1 and σ2 represent two Gaussian kernels, N represents the number of iterations, and flog is used to control whether to apply logarithmic gradient.
 
 ## 5. Dataset and Experiments
+## Dataset
 Our data comes from the public datasets TNO and M3FD, which can be obtained from the following links:
-https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
+https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029  
+
 https://github.com/dlut-dimt/TarDAL
+## Experiments
+![image](https://github.com/user-attachments/assets/34f305b1-4224-432e-be94-f7f5021755a7)
+
 
 ## 6. Citation
 If you use this work in your research, please cite it as follows:
