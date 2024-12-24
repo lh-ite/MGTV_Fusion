@@ -31,7 +31,7 @@ You need to set the path of the data set you want to use in this file.
 You can find the Gaussian total variation code in the [GTV.m](./GTV.m) file.
 In this file, I represents the input image, λ represents the balance parameter, σ1 and σ2 represent two Gaussian kernels, N represents the number of iterations, and flog is used to control whether to apply logarithmic gradient.
 [AES]: This method extracts structural similarity and information entropy weight map from the image and then performs adaptive weighting as our fusion strategy.
-You can find the related code in the [Relevency.m](./Relevency.m) file.
+You can find the related code in the [Relevancy.m](./Relevancy.m) file.
 In this file, the input parameters consist of infrared images, visible light images and intermediate reference images.
 
 ## 5. Dataset and Experiments
