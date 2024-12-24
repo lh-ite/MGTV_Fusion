@@ -19,15 +19,28 @@ A personal computer equipped with an AMD R7-6800H processor @ 3.2GHz and 16GB of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository.git
+   git clone https://github.com/lh-ite/MGTV_Fusion.git
    cd repository
+### Usage
+Running Fusion Algorithm: Open the MATLAB script main.m.
+You need to set the path of the data set you want to use in this file.
 
-# Dataset
+## 4. Key Algorithms and Implementation
+### Algorithm Description
+[MGTV]: This method decomposes the image by using multi-scale Gaussian total variation to achieve the purpose of improving the contrast and details of the fused image.
+You can find the Gaussian total variation code in the [GTV.m](./GTV.m) file.
+In this file, I represents the input image, λ represents the balance parameter, σ1 and σ2 represent two Gaussian kernels, N represents the number of iterations, and flog is used to control whether to apply logarithmic gradient.
+
+## 5. Dataset and Experiments
 Our data comes from the public datasets TNO and M3FD, which can be obtained from the following links:
 https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
 https://github.com/dlut-dimt/TarDAL
 
-# Contact Information
+## 6. Citation
+If you use this work in your research, please cite it as follows:
+
+
+## 7. Contact Information
 For any questions or opportunities for collaboration, please feel free to reach out to the project lead:
 
 - Email:  lh_010625@163.com or imagevisioner@outlook.com
