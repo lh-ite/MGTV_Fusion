@@ -22,7 +22,7 @@ A personal computer equipped with an AMD R7-6800H processor @ 3.2GHz and 16GB of
    git clone https://github.com/lh-ite/MGTV_Fusion.git
    cd repository
 ### Usage
-Running Fusion Algorithm: Open the MATLAB script main.m(.\main.m).
+Running Fusion Algorithm: Open the MATLAB script [main.m](.\main.m).
 You need to set the path of the data set you want to use in this file.
 
 ## 4. Key Algorithms and Implementation
