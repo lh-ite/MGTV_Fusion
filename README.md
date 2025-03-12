@@ -50,6 +50,7 @@ https://github.com/dlut-dimt/TarDAL
 
 ## 6. Citation
 If you use this work in your research, please cite it as follows:
+10.1007/s00371-025-03840-w
 
 
 ## 7. Contact Information
