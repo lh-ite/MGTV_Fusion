@@ -52,6 +52,19 @@ https://github.com/dlut-dimt/TarDAL
 If you use this work in your research, please cite it as follows:
 10.1007/s00371-025-03840-w
 
+```
+@article{li2025enhancing,
+  title={Enhancing infrared and visible image fusion through multiscale Gaussian total variation and adaptive local entropy: H. Li et al.},
+  author={Li, Hao and Wu, Shengkun and Deng, Lei and Liu, Chenhua and Chen, Yifan and Chen, Hanrui and Yu, Heng and Dong, Mingli and Zhu, Lianqing},
+  journal={The Visual Computer},
+  volume={41},
+  number={10},
+  pages={7817--7838},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 
 ## 7. Contact Information
 For any questions or opportunities for collaboration, please feel free to reach out to the project lead:
